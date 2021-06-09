@@ -19,3 +19,4 @@
 #define trait concept
 
 #define Vec std::vector
+#define match switch
